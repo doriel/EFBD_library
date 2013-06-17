@@ -14,6 +14,7 @@ Uma biblioteca virtual simples feita usando o Visual Basic
 
 
 #Objectivo
-    * Organizar informação. 
+* Organizar informação. 
+
     
 
