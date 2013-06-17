@@ -6,7 +6,7 @@ Uma biblioteca virtual simples feita usando o Visual Basic
 #Desenvolvedores
 
 * [Doriel Fonseca](https://github.com/doriel "Doriel")
-*  Eliano Quiza
+* [Eliano Quiza](https://github.com/ElianoAntonio "Eliano Antonio")
 *  Esmael Tondela
 * [Flowck II](https://github.com/Flowck "Flowck II")
 *  Sebastião Thone
