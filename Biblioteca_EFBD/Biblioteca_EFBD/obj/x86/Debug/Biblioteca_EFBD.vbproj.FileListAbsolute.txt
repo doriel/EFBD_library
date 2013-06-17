@@ -1,0 +1,27 @@
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\bin\Debug\Biblioteca_EFBD.exe
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\bin\Debug\Biblioteca_EFBD.pdb
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\bin\Debug\Biblioteca_EFBD.xml
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.Form1.resources
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.Resources.resources
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.exe
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.xml
+C:\Users\Flowck\AppData\Local\Temporary Projects\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.pdb
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.exe
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.xml
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.pdb
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\bin\Debug\Biblioteca_EFBD.exe
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\bin\Debug\Biblioteca_EFBD.pdb
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\bin\Debug\Biblioteca_EFBD.xml
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.Resources.resources
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Flowck\documents\visual studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.tela_inicio.resources
+C:\Users\Flowck\Documents\Visual Studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.princi_biblio.resources
+C:\Users\Flowck\Documents\Visual Studio 2010\Projects\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.sobre.resources
+C:\Users\user\Documents\VISUALbasic_project_by_Flowck\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.exe
+C:\Users\user\Documents\VISUALbasic_project_by_Flowck\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.xml
+C:\Users\user\Documents\VISUALbasic_project_by_Flowck\Biblioteca_EFBD\Biblioteca_EFBD\obj\x86\Debug\Biblioteca_EFBD.pdb
