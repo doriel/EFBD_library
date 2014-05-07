@@ -3,7 +3,7 @@ EFBD_library
 
 Uma biblioteca virtual simples feita usando o Visual Basic
 
-#Desenvolvedores
+#Team
 
 * [Doriel Fonseca](https://github.com/doriel "Doriel")
 * [Eliano Quiza](https://github.com/ElianoAntonio "Eliano Antonio")
